@@ -788,12 +788,12 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mantine/core@4.2.3":
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/@mantine/core/-/core-4.2.3.tgz#5e2f2171e768349a950341c16d0e58b56e9171d6"
-  integrity sha512-xeRSIltKvOtIndFtnqhi2QwuWYOISCxEozZ9WCOUQ0HTArufrYv+cMBuc3EdEnYKDTDWDYrcxnGvHMjam3LT9Q==
+"@mantine/core@4.2.4":
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/@mantine/core/-/core-4.2.4.tgz#9c36acbaaa4287f61e9dc85eb631c4e5a7e417de"
+  integrity sha512-YeN8slz3bcb47NUUkSZ4UAedMZH7bWvqIx7OfRf2D0m2o4Fu1BLO73xUCpgj18R31fx3BcSopRujZC9x/8bqUg==
   dependencies:
-    "@mantine/styles" "4.2.3"
+    "@mantine/styles" "4.2.4"
     "@popperjs/core" "^2.9.3"
     "@radix-ui/react-scroll-area" "^0.1.1"
     react-popper "^2.2.5"
@@ -837,10 +837,10 @@
     clsx "^1.1.1"
     csstype "3.0.9"
 
-"@mantine/styles@4.2.3":
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-4.2.3.tgz#2b23e70ba5c0aa356bdc4ba9d2c5948476fb7a51"
-  integrity sha512-flN7iQ5/aF16lzUGK+vCuas1G8xGPVnArtAbwk0Ryf6tCmpiuqP2w0RuXGiZGxxNPqZvs0SszAtY5rxlvnb8sw==
+"@mantine/styles@4.2.4":
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-4.2.4.tgz#6e6e6f999cff1bc1600082714946b2c8ce5b4c49"
+  integrity sha512-nG8qwE7uuZ7pJaY5jES9DLIkYxlLf3pK8Gn01gdbSfcyDC8hldvr83bMQOS9gLZ/3F/lrhtsu8u+31kxXIBIsw==
   dependencies:
     "@emotion/cache" "11.7.1"
     "@emotion/react" "11.7.1"
