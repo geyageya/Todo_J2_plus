@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@heroicons/react": "1.0.6",
-    "@mantine/core": "4.2.11",
+    "@mantine/core": "4.2.12",
     "@mantine/hooks": "4.2.11",
     "@mantine/next": "4.2.11",
     "next": "12.2.0",
